@@ -1,4 +1,12 @@
 ## Produção de Componenter PetRg
+Bem-vindo à documentação do front-end da API Pet RG! Este documento fornecerá as instruções necessárias para executar o projeto e integrar a interface com a API Pet RG, que gerencia informações relacionadas a pets de maneira fácil e organizada.
+
+Pré-requisitos
+Antes de começar, certifique-se de ter os seguintes pré-requisitos instalados em sua máquina:
+ * [Baixar o projeto back-end existente, faça o download do projeto back-end associado à API clicando](https://github.com/Sync-BR/petrg)
+
+
+
 
 ### cadastro de usuário && pet
 * O cadastro funcionará em 3 etapas para o usuário:
